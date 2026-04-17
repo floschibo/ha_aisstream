@@ -1,0 +1,10 @@
+{
+  "domain": "ha_aisstream",
+  "name": "HA AISStream",
+  "version": "1.0.0",
+  "documentation": "https://github.com/floschibo/ha_aisstream",
+  "requirements": ["websockets==12.0"],
+  "codeowners": ["@floschibo"],
+  "iot_class": "cloud_push",
+  "config_flow": true
+}
